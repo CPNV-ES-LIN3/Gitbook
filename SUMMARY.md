@@ -4,6 +4,15 @@
   * [Ordonnance](kickoff/master.md)
   * [Introduction LIN3](kickoff/kickoff.md)
 * [Roadmap](roadmap.md)
+* [Théorie et Concepts](theorie-et-concepts/README.md)
+  * [Protocole NTP](theorie-et-concepts/protocole-ntp.md)
+  * [Kerberos](theorie-et-concepts/kerberos.md)
+  * [PAM](theorie-et-concepts/pam.md)
+  * [Protocole SMB](theorie-et-concepts/protocole-smb.md)
+* [Projet](projet/README.md)
+  * [Sprint 1 - NTP](projet/sprint-1-ntp.md)
+  * [Sprint 2 - Kerberos](projet/sprint-2-authentification.md)
+  * [Sprint 3 - SMB](projet/sprint-3-smb.md)
 
 ## Archives
 
@@ -64,15 +73,3 @@
   * [Release 2 - L'intégration des machines et des utilisateurs](archives/roadmap/release-2-lintegration-des-machines-et-des-utilisateurs/README.md)
     * [Sprint 1 - Intégration machines et utilisateurs](archives/roadmap/release-2-lintegration-des-machines-et-des-utilisateurs/kerberos-suite.md)
     * [Sprint 2 - Partage de fichiers et sécurité](archives/roadmap/release-2-lintegration-des-machines-et-des-utilisateurs/release-3-partage-de-fichiers-et-securite.md)
-
-***
-
-* [Théorie et Concepts](theorie-et-concepts/README.md)
-  * [Protocole NTP](theorie-et-concepts/protocole-ntp.md)
-  * [Kerberos](theorie-et-concepts/kerberos.md)
-  * [PAM](theorie-et-concepts/pam.md)
-  * [Protocole SMB](theorie-et-concepts/protocole-smb.md)
-* [Projet](projet/README.md)
-  * [Sprint 1 - NTP](projet/sprint-1-ntp.md)
-  * [Sprint 2 - Kerberos](projet/sprint-2-authentification.md)
-  * [Sprint 3 - SMB](projet/sprint-3-smb.md)
