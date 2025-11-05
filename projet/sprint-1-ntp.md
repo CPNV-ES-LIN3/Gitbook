@@ -16,4 +16,4 @@ Le client NTP sera hébergé sur une distribution Ubuntu et non CentOs comme men
 
 ## Backlog
 
-{% embed url="https://github.com/orgs/CPNV-ES-LIN3/projects" %}
+{% embed url="https://github.com/orgs/CPNV-ES-LIN3/projects/9" %}
