@@ -14,10 +14,9 @@ L'infrastructure qui va être mise à disposition des techniciens durant ce proj
 
 Le déploiement a été réalisé à l'aide du client en ligne de commande d'AWS pour ce qui est de la configuration du réseau.\
 Les instances quant à elles ont été déployés à l'aide de code réalisé en C# à l'aide du SDK d'AWS.\
-\
+<br>
 
-
-#### Configuration du réseau 
+#### Configuration du réseau<br>
 
 * Création du VPC
 
