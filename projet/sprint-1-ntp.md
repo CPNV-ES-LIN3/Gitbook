@@ -6,7 +6,7 @@ Mise en place de NTP.
 
 #### Infrastructure d'intégration
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DIAGRAM AS CODE (eraser)
 
