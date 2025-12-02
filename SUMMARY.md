@@ -12,6 +12,7 @@
     * [Docker et la sécurité](theorie-et-concepts/docker/docker-et-la-securite.md)
     * [Versioning et Docker](theorie-et-concepts/docker/versioning-et-docker.md)
     * [Le trafic de données et la mise en place de flux](theorie-et-concepts/docker/le-trafic-de-donnees-et-la-mise-en-place-de-flux.md)
+    * [Création d'images](theorie-et-concepts/docker/creation-dimages.md)
 * [Pratique](pratique/README.md)
   * [NTP](pratique/ntp.md)
 
