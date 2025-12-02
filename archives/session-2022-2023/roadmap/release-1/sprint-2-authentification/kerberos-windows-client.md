@@ -26,7 +26,7 @@ Source [VM Ware](https://gpdb.docs.pivotal.io/6-7/admin_guide/kerberos-win-clien
 
 * Run .msi executable
 
-<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Set Local DNS
 
@@ -105,4 +105,4 @@ The prompt input doesn't show the ticket information, in despite the cache corre
 
 <figure><img src="../../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

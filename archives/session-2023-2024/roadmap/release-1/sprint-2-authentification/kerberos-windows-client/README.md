@@ -7,7 +7,7 @@ TODO
 * [ ] Download [MSI](http://web.mit.edu/kerberos/dist/kfw/4.0/kfw-4.0.1-amd64.msi)
 * [ ] Run .msi executable
 
-<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

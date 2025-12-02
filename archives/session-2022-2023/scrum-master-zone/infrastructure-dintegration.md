@@ -8,7 +8,7 @@ description: >-
 
 L'infrastructure qui va être mise à disposition des techniciens durant ce projet est inspirée de ce modèle :
 
-![Infrastructure d'intégration](<../../../.gitbook/assets/image (7).png>)
+![Infrastructure d'intégration](<../../../.gitbook/assets/image (7) (1).png>)
 
 ### Déploiement
 
