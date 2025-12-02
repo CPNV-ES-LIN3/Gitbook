@@ -7,7 +7,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=5N242XcKAsM" %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Source: <a href="https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system-level_authentication_guide/using_kerberos#about-kerberos">Redhat</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Source: <a href="https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system-level_authentication_guide/using_kerberos#about-kerberos">Redhat</a></p></figcaption></figure>
 
 ## Questions conceptuelles à aborder
 

@@ -18,7 +18,7 @@ Assurez-vous que l'<mark style="color:orange;">image ne contient pas d'informati
 
 Vous pouvez automatiser la construction et la publication des images avec des outils CI/CD comme Jenkins, GitLab CI, ou GitHub Actions. Cela garantit une intégration continue et des déploiements automatisés avec la dernière version de l'image.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Source : [Redhat](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 

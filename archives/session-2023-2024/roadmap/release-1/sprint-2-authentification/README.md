@@ -8,7 +8,7 @@ Mise en place de Kerberos.
 
 #### Infrastructure d'intégration
 
-<figure><img src="../../../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Infrastructure d'intégration présentant les rôles Kerberos</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Infrastructure d'intégration présentant les rôles Kerberos</p></figcaption></figure>
 
 ## Durée du sprint
 

@@ -17,6 +17,11 @@
       * [Création d'images](theorie-et-concepts/docker/les-images/creation-dimages.md)
       * [Gestion d'images](theorie-et-concepts/docker/les-images/gestion-dimages.md)
       * [Publication d'images](theorie-et-concepts/docker/les-images/publication-dimages.md)
+    * [Surveillance (monitoring)](theorie-et-concepts/docker/surveillance-monitoring/README.md)
+      * [Principe](theorie-et-concepts/docker/surveillance-monitoring/principe.md)
+      * [Monitoring et Docker](theorie-et-concepts/docker/surveillance-monitoring/monitoring-et-docker.md)
+      * [Les outils de surveillance](theorie-et-concepts/docker/surveillance-monitoring/les-outils-de-surveillance.md)
+      * [Les bonnes pratiques](theorie-et-concepts/docker/surveillance-monitoring/les-bonnes-pratiques.md)
 * [Pratique](pratique/README.md)
   * [NTP](pratique/ntp.md)
 

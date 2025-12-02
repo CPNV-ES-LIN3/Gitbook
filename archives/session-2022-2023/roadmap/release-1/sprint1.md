@@ -6,7 +6,7 @@ Implémenter le protocole NTP.
 
 **Exemple d'une infrastructure cible.**
 
-![Infrastructure](<../../../../.gitbook/assets/image (6) (1).png>)
+![Infrastructure](<../../../../.gitbook/assets/image (6) (1) (1).png>)
 
 ## Durée du sprint
 

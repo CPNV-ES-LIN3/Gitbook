@@ -6,7 +6,7 @@ Implémenter le protocole NTP.
 
 **Infrastructure d'intégration.**
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Intrastructure d'intégration présentant les différents rôles NTP</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Intrastructure d'intégration présentant les différents rôles NTP</p></figcaption></figure>
 
 ## Durée du sprint
 

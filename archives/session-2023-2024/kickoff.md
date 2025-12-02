@@ -10,7 +10,7 @@ Nous traiterons de l'interopérabilité des applications et des systèmes d'expl
 
 Nous l'avons vu déjà en MON1, implémenter un tunnel SSH et à travers exploiter une connection RDP est possible. Nous avons là un premier exemple de cohabitation entre Windows et Linux. Ce qui permet cela sont les normes, les standards respectés par les différents éditeurs de logiciel, OS.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p><a href="https://www.lemondeinformatique.fr/actualites/lire-microsoft-fournit-sa-documentation-a-samba-24918.html">Source</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p><a href="https://www.lemondeinformatique.fr/actualites/lire-microsoft-fournit-sa-documentation-a-samba-24918.html">Source</a></p></figcaption></figure>
 
 ### Une approche en profondeur
 
