@@ -28,6 +28,6 @@ Lorsque vous êtes prêt, déployez votre application dans votre environnement d
 
 Source : [Docker](https://docs.docker.com/guides/docker-overview/)
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="166">Composant</th><th>Rôle dans l'achitecture</th></tr></thead><tbody><tr><td>Client</td><td>Est le moyen le plus simple de dialoguer avec le "daemon docker". Via une api, vous pouvez lui demander d'exécuter les commandes et ainsi gérer le cycle de vie des conteneurs.</td></tr><tr><td>Docker Host</td><td>Est constitué de différents composants:<br><br>* le docker daemon, qui est le service principal qui exécute les commandes et maintient l'état des conteneurs<br><br>* les images, qui sont l'équivalent des "iso" des machines virtuelles d'une certaines manière. Elle seront utiles pour construire des conteneurs.<br><br>* les conteneurs, qui sont le résultat des images après construction (build) et qui peuvent être dans différents états.</td></tr><tr><td>Registry</td><td>Sert de bibliothèque d'images privés ou publiques. DockerHub en est un exemple publique. Cela permet à la communauté de s'échanger des images et d'avoir un référentiel commun.</td></tr></tbody></table>
