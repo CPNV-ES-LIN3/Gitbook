@@ -12,6 +12,8 @@
       * [Docker et la sécurité](theorie-et-concepts/docker/les-bases/docker-et-la-securite.md)
       * [Versioning et Docker](theorie-et-concepts/docker/les-bases/versioning-et-docker.md)
       * [Le trafic de données et la mise en place de flux](theorie-et-concepts/docker/les-bases/le-trafic-de-donnees-et-la-mise-en-place-de-flux.md)
+      * [Bonnes pratiques](theorie-et-concepts/docker/les-bases/bonnes-pratiques/README.md)
+        * [CMD / ENTRY POINT](theorie-et-concepts/docker/les-bases/bonnes-pratiques/cmd-entry-point.md)
     * [Les images](theorie-et-concepts/docker/les-images/README.md)
       * [Création, gestion et publication d'images](theorie-et-concepts/docker/les-images/creation-gestion-et-publication-dimages.md)
       * [Création d'images](theorie-et-concepts/docker/les-images/creation-dimages.md)
