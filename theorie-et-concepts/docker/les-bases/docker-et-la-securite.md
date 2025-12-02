@@ -11,9 +11,13 @@ Voici quelques points clés à considérer :
 * **Isolation par Namespace :** <mark style="color:orange;">Docker utilise des namespaces Linux</mark> pour isoler les conteneurs entre eux. Cependant, <mark style="color:orange;">cette isolation n'est pas aussi robuste qu'une isolation complète offerte par les machines virtuelles</mark>. Les failles de sécurité dans le noyau peuvent potentiellement permettre à un attaquant de sortir d'un conteneur et d'accéder à l'hôte ou à d'autres conteneurs.
 * **Isolation par Cgroups :** Les cgroups (control groups) <mark style="color:orange;">limitent l'utilisation des ressources</mark> par les conteneurs, mais ils ne fournissent pas une isolation complète, notamment au niveau de l'utilisation des ressources matérielles.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Source : [Medium](https://medium.com/@mrdevsecops/namespace-vs-cgroup-60c832c6b8c8)
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<p align="center">Docker Relese message</p>
 
 ## **Accès Root et Privilèges Élevés**
 
@@ -24,7 +28,7 @@ Source : [Medium](https://medium.com/@mrdevsecops/namespace-vs-cgroup-60c832c6b8
 
 * **Surface d'attaque du Kernel :** Docker <mark style="color:orange;">partage le même noyau avec l'hôte et les autres conteneurs</mark>. Une vulnérabilité dans le noyau Linux pourrait être exploitée pour attaquer l'hôte ou d'autres conteneurs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Sécurité des Images**
 

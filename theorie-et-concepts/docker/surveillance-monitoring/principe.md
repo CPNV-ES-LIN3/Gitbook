@@ -5,7 +5,7 @@
 > &#x20;                                "Everything fails all the time."\
 > &#x20;                                                            Werner Vogels, AWS CTO
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Werner Vogels - Wikipedia</p>
 
@@ -13,7 +13,7 @@ Cette citation souligne l'importance cruciale du **monitoring** dans l'infrastru
 
 ## Les principes de bases du monitoring
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Visibilité en temps réel**
 
