@@ -6,8 +6,8 @@ Vous trouverez ici les informations concernant le déroulement du module.
 
 | Semaine                      | Théorie                                                                                                  | Laboratoire                                                                 |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <p>[01]<br>XX.XX.XXXX</p>    | <ul><li>Kickoff</li><li><a href="../../theorie-et-concepts/protocole-ntp.md">Protocole NTP</a></li></ul> | <ul><li><a href="../../projet/sprint-1-ntp.md">Protocole NTP</a></li></ul>  |
-| <p>[02]<br>XX.XX.XXXX</p>    | <ul><li><a href="../../theorie-et-concepts/protocole-ntp.md">Protocole NTP</a></li></ul>                 | <ul><li><a href="../../projet/sprint-1-ntp.md">Protocole NTP</a></li></ul>  |
+| <p>[01]<br>XX.XX.XXXX</p>    | <ul><li>Kickoff</li><li><a href="../../theorie-et-concepts/protocole-ntp.md">Protocole NTP</a></li></ul> | <ul><li><a href="../../pratique/ntp.md">Protocole NTP</a></li></ul>         |
+| <p>[02]<br>XX.XX.XXXX</p>    | <ul><li><a href="../../theorie-et-concepts/protocole-ntp.md">Protocole NTP</a></li></ul>                 | <ul><li><a href="../../pratique/ntp.md">Protocole NTP</a></li></ul>         |
 | <p>[03]<br>XX.XX.XXXX</p>    | <ul><li><a href="/broken/pages/DErvN2kuwgccIfNkFlSU">Kerberos</a></li></ul>                              | <ul><li><a href="/broken/pages/9m66JexW3Y784iFJbwDC">Kerberos</a></li></ul> |
 | <p>[04]<br>XX.XX.XXXX</p>    | <ul><li><a href="/broken/pages/DErvN2kuwgccIfNkFlSU">Kerberos</a></li></ul>                              | <ul><li><a href="/broken/pages/9m66JexW3Y784iFJbwDC">Kerberos</a></li></ul> |
 | <p>[05]<br>XX.XX.XXXX</p>    | <ul><li><a href="/broken/pages/Mbkpwp62aIRXCqn8ahyb">PAM</a></li></ul>                                   | <ul><li>Evaluation théorique</li></ul>                                      |
