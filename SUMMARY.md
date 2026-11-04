@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Kickoff](README.md)
-  * [Ordonnance](kickoff/master.md)
-  * [Introduction LIN3](kickoff/kickoff.md)
-* [Roadmap](roadmap.md)
+  * [Ordonnance](kickoff/master/README.md)
+    * [Introduction LIN3](kickoff/master/kickoff.md)
+    * [Roadmap](kickoff/master/roadmap.md)
+  * [Copy of Ordonnance](kickoff/master-1.md)
 * [Théorie et Concepts](theorie-et-concepts/README.md)
   * [Protocole NTP](theorie-et-concepts/protocole-ntp.md)
   * [Docker](theorie-et-concepts/docker/README.md)
@@ -24,11 +25,18 @@
       * [Monitoring et Docker](theorie-et-concepts/docker/surveillance-monitoring/monitoring-et-docker.md)
       * [Les outils de surveillance](theorie-et-concepts/docker/surveillance-monitoring/les-outils-de-surveillance.md)
       * [Les bonnes pratiques](theorie-et-concepts/docker/surveillance-monitoring/les-bonnes-pratiques.md)
-* [Pratique](pratique/README.md)
-  * [NTP](pratique/ntp.md)
+* [Projets](projets/README.md)
+  * [NTP](projets/ntp.md)
 
 ## Archives
 
+* [Session 2025-2026](archives/session-2025-2026/README.md)
+  * [Copy of Kickoff](archives/session-2025-2026/copy-of-kickoff/README.md)
+    * [Ordonnance](archives/session-2025-2026/copy-of-kickoff/master.md)
+    * [Introduction LIN3](archives/session-2025-2026/copy-of-kickoff/kickoff.md)
+  * [Copy of Kickoff](archives/session-2025-2026/copy-of-kickoff-1/README.md)
+    * [Ordonnance](archives/session-2025-2026/copy-of-kickoff-1/master.md)
+    * [Introduction LIN3](archives/session-2025-2026/copy-of-kickoff-1/kickoff.md)
 * [Session 2024-2025](archives/session-2024-2025/README.md)
   * [Kickoff](archives/session-2024-2025/kickoff/README.md)
     * [Ordonnance](archives/session-2024-2025/kickoff/master.md)

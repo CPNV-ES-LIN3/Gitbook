@@ -4,7 +4,7 @@
 
 
 
-{% file src="../.gitbook/assets/CPNV-ES-SYS-LIN3.pdf" %}
+{% file src="../../.gitbook/assets/CPNV-ES-SYS-LIN3.pdf" %}
 
 ## Intention du module
 
@@ -12,12 +12,13 @@ LIN3 va permettre d'approfondir les compétences suivantes:
 
 * Etudier des protocoles normés et les implémenter.
 * Faire cohabiter des familles d'OS différentes (Win et Lin).
+* Approfondir les connaissances des environnements conteneurisés.
 * Déploiement sur un environnement d'intégration.
 * Approche DEV OPS.
 
 ## Pré-acquis
 
-LIN3 va réactiver les compétences qui ont été entrainées dans les modules précédents que sont:
+LIN3 va réactiver les compétences qui ont été entraînées dans les modules précédents que sont:
 
 * \[LIN1 et LIN2]&#x20;
   * Administration de système d'exploitation de la famille Unix.
@@ -36,7 +37,7 @@ LIN3 va réactiver les compétences qui ont été entrainées dans les modules p
 
 ## Outils collaboratifs
 
-* IceScrum la gestion du backlog.
+* Github/projects pour le backlog.
 * Github/code pour le versioning et le travail collaboratif.
 * Github/issue pour le suivi des bugs.
 * Teams pour le dialogue au sein des devs teams
