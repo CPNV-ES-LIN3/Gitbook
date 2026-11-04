@@ -8,7 +8,8 @@ Mise en place de NTP.
 
 NTP SRV LIN - DEBIAN 13
 
-NTP CLI WIN - W2K25 Base\
+NTP CLI WIN - W2K25 Base
+
 NTP CLI LIN - UBUNTU 26.04 LTS
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
