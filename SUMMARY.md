@@ -4,7 +4,6 @@
   * [Ordonnance](kickoff/master/README.md)
     * [Introduction LIN3](kickoff/master/kickoff.md)
     * [Roadmap](kickoff/master/roadmap.md)
-  * [Copy of Ordonnance](kickoff/master-1.md)
 * [Théorie et Concepts](theorie-et-concepts/README.md)
   * [Protocole NTP](theorie-et-concepts/protocole-ntp.md)
   * [Docker](theorie-et-concepts/docker/README.md)
@@ -30,13 +29,6 @@
 
 ## Archives
 
-* [Session 2025-2026](archives/session-2025-2026/README.md)
-  * [Copy of Kickoff](archives/session-2025-2026/copy-of-kickoff/README.md)
-    * [Ordonnance](archives/session-2025-2026/copy-of-kickoff/master.md)
-    * [Introduction LIN3](archives/session-2025-2026/copy-of-kickoff/kickoff.md)
-  * [Copy of Kickoff](archives/session-2025-2026/copy-of-kickoff-1/README.md)
-    * [Ordonnance](archives/session-2025-2026/copy-of-kickoff-1/master.md)
-    * [Introduction LIN3](archives/session-2025-2026/copy-of-kickoff-1/kickoff.md)
 * [Session 2024-2025](archives/session-2024-2025/README.md)
   * [Kickoff](archives/session-2024-2025/kickoff/README.md)
     * [Ordonnance](archives/session-2024-2025/kickoff/master.md)
