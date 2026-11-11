@@ -12,12 +12,6 @@ Mise en place de NTP.
 | NTP WIN CLI (FAIL OVER) | W2k25 Base       | 10.0.X.11 |
 | NTP LIN CLI             | UBUNTU 26.04 LTS | 10.0.X.12 |
 
-NTP SRV LIN - DEBIAN 13
-
-NTP CLI WIN - W2K25 Base
-
-NTP CLI LIN - UBUNTU 26.04 LTS
-
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DIAGRAM AS CODE (eraser)
