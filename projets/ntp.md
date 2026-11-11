@@ -6,6 +6,12 @@ Mise en place de NTP.
 
 #### Infrastructure d'intégration
 
+| Role                    | OS               | IP        |
+| ----------------------- | ---------------- | --------- |
+| NTP SRV                 | DEBIAN 13        | 10.0.X.10 |
+| NTP WIN CLI (FAIL OVER) | W2k25 Base       | 10.0.X.11 |
+| NTP LIN CLI             | UBUNTU 26.04 LTS | 10.0.X.12 |
+
 NTP SRV LIN - DEBIAN 13
 
 NTP CLI WIN - W2K25 Base
