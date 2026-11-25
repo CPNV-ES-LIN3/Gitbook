@@ -28,6 +28,7 @@
   * [NTP](projets/ntp.md)
 * [Evaluations](evaluations/README.md)
   * [Evaluation NTP Pratique](evaluations/evaluation-ntp-pratique.md)
+  * [Evaluation NTP Théorique](evaluations/evaluation-ntp-theorique.md)
 
 ## Archives
 

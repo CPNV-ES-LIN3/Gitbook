@@ -7,7 +7,7 @@
 | Forme collaborative | Par équipe de 3 techs                                                                                                                                        |
 | Moyens              | <ul><li>Votre dépôt github (code + documentation)</li><li>Un accès à l'infrastructure de <em>staging</em> via un terminal</li><li>Papier et crayon</li></ul> |
 | Temps à diposition  | 3 périodes                                                                                                                                                   |
-| Pondération         | 50% de la notre du module                                                                                                                                    |
+| Pondération         | 50% de la note NTP                                                                                                                                           |
 
 ## Grille d'évaluation
 
