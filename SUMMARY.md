@@ -27,7 +27,7 @@
 * [Projets](projets/README.md)
   * [NTP](projets/ntp.md)
 * [Evaluations](evaluations/README.md)
-  * [Evaluation NTP](evaluations/evaluation-ntp.md)
+  * [Evaluation NTP Pratique](evaluations/evaluation-ntp-pratique.md)
 
 ## Archives
 

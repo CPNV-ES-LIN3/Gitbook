@@ -1,4 +1,4 @@
-# Evaluation NTP
+# Evaluation NTP Pratique
 
 ## Critères globaux
 
@@ -9,11 +9,9 @@
 | Temps à diposition  | 3 périodes                                                                                                                                                   |
 | Pondération         | 50% de la notre du module                                                                                                                                    |
 
-## Pratique
+## Partie I - Déploiement du protocole NTP
 
-### Partie I - Déploiement du protocole NTP
-
-#### Contexte
+### Contexte
 
 Chaque équipe reçoit une infrastructure de _staging_ identique à celle utilisée la semaine précédente. Les instances ont été réinitialisées. Tous les paramètres vous permettant de vous y connecter, <mark style="color:$danger;">à l'exception des mots de passe Windows</mark>, sont restés inchangés.
 
@@ -23,7 +21,7 @@ Le fichier partagé via OneDrive vous permettra de récupérer le nouveau mot de
 
 Les paramètres du réseau tels que la sécurité, les types d'OS, les architectures des machines sont également identiques.
 
-#### Étape 01 - Validation de l'infrastructure
+### Étape 01 - Validation de l'infrastructure
 
 Cette étape est dédiée à la prise en main de l'infrastructure et à la vérification que tout ce dont vous avez besoin est disponible, **avant de déployer NTP**.
 
@@ -34,7 +32,7 @@ Vous mentionnez à votre enseignant, via le canal Teams ouvert pour l'évaluatio
 Sinon, vous demandez qu'un correctif soit apporté à l'infrastructure.
 {% endhint %}
 
-#### Étape 02 - Configuration du protocole NTP
+### Étape 02 - Configuration du protocole NTP
 
 En utilisant uniquement le contenu de votre dépôt GitHub, mettez en place le protocole NTP **sans réaliser les scénarios décrits dans le backlog**.
 
@@ -50,7 +48,7 @@ Vous arrêtez les trois instances.
 
 L'enseignant relancera les instances une fois que toutes les équipes seront prêtes.
 
-#### Étape 03 - Préparation du backlog
+### Étape 03 - Préparation du backlog
 
 Avant de débuter la démonstration, il est important de mettre à jour votre Backlog sur GitHub Project.\
 \
@@ -67,12 +65,14 @@ Avant de débuter la démonstration, il est important de mettre à jour votre Ba
 Dès que le backlog est à jour, mentionnez-le via Teams en postant le lien de votre projet Github Projects.
 {% endhint %}
 
-#### Étape 04 - Démonstration et preuves techniques
+### Étape 04 - Démonstration et preuves techniques
 
-Cette étape est la plus importante. Elle validera que votre implémentation est fonctionnelle et que vous maîtriser la solution livrée.
+Cette étape est la plus importante. Elle doit valider que votre implémentation est fonctionnelle et que vous maîtrisez la solution livrée.
 
 Vous recevrez des consignes étape par étape, à suivre précisément.
 
 {% hint style="warning" %}
-Note : il ne s'agit pas d'un cours, mais d'une évaluation.
+Note : il ne s'agit pas d'un cours, mais d'une évaluation.\
+\
+Le dialogue est attendu lors du Pôle 1, uniquement.
 {% endhint %}
