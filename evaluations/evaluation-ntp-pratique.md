@@ -9,6 +9,16 @@
 | Temps à diposition  | 3 périodes                                                                                                                                                   |
 | Pondération         | 50% de la notre du module                                                                                                                                    |
 
+## Grille d'évaluation
+
+Le respect des consignes est crucial. L'épreuve peut être annulée si une équipe ne se conforme pas aux consignes.
+
+| Elément      | Valeur |
+| ------------ | ------ |
+| SRV NTP (DC) | 50%    |
+| CLIENTS      | 25%    |
+| FAILOVER     | 25%    |
+
 ## Partie I - Déploiement du protocole NTP
 
 ### Contexte
